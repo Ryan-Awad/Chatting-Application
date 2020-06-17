@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chatting-Application", "Chatting-Application\Chatting-Application.csproj", "{ADB23812-7648-499B-ACF8-C2F3D30CD236}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADB23812-7648-499B-ACF8-C2F3D30CD236}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADB23812-7648-499B-ACF8-C2F3D30CD236}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADB23812-7648-499B-ACF8-C2F3D30CD236}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADB23812-7648-499B-ACF8-C2F3D30CD236}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {446014C0-B3B5-40F4-A34F-6ED42106A8F6}
+	EndGlobalSection
+EndGlobal
